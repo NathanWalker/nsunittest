@@ -34,14 +34,15 @@
     "@nativescript/theme": "~3.0.1"
   },
   "devDependencies": {
+    "@nativescript/ios": "8.0.0",
     "@nativescript/types": "~8.0.0",
-    "@nativescript/unit-test-runner": "file:../nativescript-unit-test-runner-1.0.2.tgz",
-    "@nativescript/webpack": "file:../nativescript-webpack-5.0.0-beta.5.tgz",
+    "@nativescript/unit-test-runner": "file:nativescript-unit-test-runner-1.0.2.tgz",
+    "@nativescript/webpack": "file:nativescript-webpack-5.0.0-beta.5.tgz",
     "@types/jasmine": "3.6.9",
     "karma": "6.3.2",
     "karma-jasmine": "4.0.1",
     "karma-nativescript-launcher": "0.4.0",
-    "karma-webpack": "3.0.5",
+    "karma-webpack": "^3.0.5",
     "typescript": "~4.0.0"
   },
   "private": "true",
